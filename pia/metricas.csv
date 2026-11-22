@@ -1,0 +1,8 @@
+modelo,metrica,valor
+Serie de tiempo,MAE,29.8347903390472
+Serie de tiempo,RMSE,47.70812161053299
+Serie de tiempo,R2,0.9529013866880606
+Clasificador de residuales,MAE usado como umbral,36.093025715698005
+HistGradientBoostingClassifier,Accuracy,0.6790589602091199
+HistGradientBoostingClassifier,F1 macro,0.4874666830267506
+Dummy baseline,Accuracy,0.731629392971246
